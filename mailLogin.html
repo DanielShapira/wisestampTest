@@ -6,15 +6,18 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="mailLoginStyle.css">
+    <script src="mailLogin.js"></script>
 </head>
 
 <body>
+    <div id="spinner"></div>
+
     <div class="TextImageWelcome">
         <img src="mailImage.png"/>
         <i class="welcomeText">Welcome to <b>Mail App</b></i>
     </div>
 
-    <form action="">
+    <form id="loginForm" onsubmit="return spinnerShow()">
         <input type="text" placeholder="Enter your name" class="email">
         <span class="fa fa-user inputImage"></span>
 
