@@ -212,7 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510142910573</updated>
-      <workItem from="1510142914853" duration="18849000" />
+      <workItem from="1510142914853" duration="18852000" />
     </task>
     <task id="LOCAL-00001" summary="Push to github">
       <created>1510175069979</created>
@@ -242,11 +242,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510176875060</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Push to github">
+      <created>1510177497955</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1510177497955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18849000" />
+    <option name="totallyTimeSpent" value="18852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1702" height="1012" extended-state="6" />
