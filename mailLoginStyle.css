@@ -94,14 +94,8 @@ form::before {
     border-top: 16px solid #3498db;
     width: 120px;
     height: 120px;
-    -webkit-animation: spin 2s linear infinite;
-    animation: spin 2s linear infinite;
+    animation: spin 1s linear infinite;
     display: none;
-}
-
-@-webkit-keyframes spin {
-    0% { -webkit-transform: rotate(0deg); }
-    100% { -webkit-transform: rotate(360deg); }
 }
 
 @keyframes spin {
@@ -109,6 +103,8 @@ form::before {
     100% { transform: rotate(360deg); }
 }
 
+
+/*Change for phone mode*/
 @media only screen and (max-width: 700px) {
     body{
         flex-direction: column;
