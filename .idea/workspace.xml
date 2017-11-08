@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b27ffe98-e964-4482-b96f-57ad80399797" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mailLoginStyle.css" afterPath="$PROJECT_DIR$/mailLoginStyle.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/mailLoginStyle.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="387">
-              <caret line="111" column="36" lean-forward="false" selection-start-line="111" selection-start-column="36" selection-end-line="111" selection-end-column="36" />
+              <caret line="111" column="38" lean-forward="false" selection-start-line="111" selection-start-column="38" selection-end-line="111" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -215,7 +216,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510142910573</updated>
-      <workItem from="1510142914853" duration="19389000" />
+      <workItem from="1510142914853" duration="19484000" />
     </task>
     <task id="LOCAL-00001" summary="Push to github">
       <created>1510175069979</created>
@@ -294,11 +295,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510178036852</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Push to github">
+      <created>1510178041096</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1510178041096</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19389000" />
+    <option name="totallyTimeSpent" value="19484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1702" height="1012" extended-state="6" />
@@ -388,7 +396,7 @@
     <entry file="file://$PROJECT_DIR$/mailLoginStyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
-          <caret line="111" column="36" lean-forward="false" selection-start-line="111" selection-start-column="36" selection-end-line="111" selection-end-column="36" />
+          <caret line="111" column="38" lean-forward="false" selection-start-line="111" selection-start-column="38" selection-end-line="111" selection-end-column="38" />
           <folding />
         </state>
       </provider>
