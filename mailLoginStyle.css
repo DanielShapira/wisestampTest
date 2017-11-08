@@ -109,7 +109,7 @@ form::before {
     100% { transform: rotate(360deg); }
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
     body{
         flex-direction: column;
     }
