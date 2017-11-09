@@ -52,7 +52,7 @@ form a{
     font-size: 12px;
 }
 
-form .inputImage {
+.inputImage {
     position: relative;
     float: right;
     margin-right: 6px;
@@ -89,7 +89,7 @@ form::before {
     top: 50%;
     z-index: 1;
     margin: -75px 0 0 -75px;
-    border: 16px solid rgb(32,195,160);
+    border: 16px solid white;
     border-radius: 50%;
     border-top: 16px solid black;
     width: 120px;
